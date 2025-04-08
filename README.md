@@ -1,20 +1,25 @@
 # AI-Powered Legal Intelligence Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPED%20BY-SQUIZAI-4a86e8" alt="Developed by SquizAI"/>
-  <img src="https://img.shields.io/badge/VERSION-1.0-00a896" alt="Version 1.0"/>
-</p>
+<div align="center">
 
-> Revolutionizing how White Bear Ankele Tanaka & Waldron manages special districts and bond due diligence
+[![](https://img.shields.io/badge/DEVELOPED%20BY-SQUIZAI-4a86e8?style=for-the-badge)](https://www.squizai.com)
+[![](https://img.shields.io/badge/VERSION-1.0-00a896?style=for-the-badge)](./development_plan.md)
+
+**Revolutionizing how White Bear Ankele Tanaka & Waldron manages special districts and bond due diligence**
+
+</div>
 
 ## The White Bear Ankele Challenge
 
 As Colorado's premier law firm specializing in special districts and local governments, White Bear Ankele Tanaka & Waldron faces unique challenges managing their extensive portfolio:
 
-- ⏱️ **Time-Intensive Processes**: Attorneys spend 40% of their time on routine document preparation and legislative review
-- 🔍 **Oversight Risk**: Complex legislative changes create potential for critical compliance oversights
-- 📈 **Scaling Challenges**: Growing district portfolio requires resources to scale proportionally
-- 📝 **Standardization Hurdles**: Balancing document standardization with district-specific customization
+| | | |
+|:---:|:---:|:---:|
+| ⏱️ | 🔍 | 📈 |
+| **Time-Intensive Processes** | **Oversight Risk** | **Scaling Challenges** |
+| Attorneys spend 40% of time on routine document preparation | Complex legislative changes create compliance risks | Growing district portfolio requires scalable resources |
+
+**175+ Special Districts** · **300+ Bond Issuances** · **3,000+ Monthly Emails**
 
 ## Our Comprehensive Solution
 
@@ -48,18 +53,13 @@ Our intelligent email processing system serves as the primary entry point for th
 flowchart LR
     A[Email Assistant Hub] --> B{AI Core}
     C[Client Portal] --> B
-    
     B --> E[Document Intelligence]
     B --> F[Legislative Monitor]
     B --> G[Bond Due Diligence]
-    
-    E & F & G --> I[Attorney Dashboard]
+    E --> I[Attorney Dashboard]
+    F --> I
+    G --> I
     I --> J[Client Deliverables]
-    
-    style A fill:#4a86e8,color:#ffffff
-    style B fill:#003366,color:#ffffff
-    style E,F,G fill:#e1f5fe
-    style I fill:#e8f5e9
 ```
 
 ### Key Benefits
@@ -80,8 +80,9 @@ flowchart LR
 
 ```mermaid
 gantt
-    title Implementation Roadmap
     dateFormat  YYYY-MM-DD
+    title Implementation Roadmap
+    
     section Email Hub
     Assistant Implementation  :a1, 2025-05-01, 60d
     Integration & Training    :a2, after a1, 30d
@@ -117,19 +118,24 @@ colorado_legal_investors/
 
 ## Next Steps
 
-1. **Discovery Workshop** - Map current processes and identify opportunities
-2. **Email Assistant Demo** - See the primary entry point in action
-3. **Implementation Plan** - Receive a tailored roadmap for your firm
+<div align="center">
 
-> **Pro Tip:** Begin with the Email Assistant Hub for fastest ROI
+| <h3>📋</h3> | <h3>🔍</h3> | <h3>🚀</h3> |
+|:---:|:---:|:---:|
+| **Discovery Workshop** | **Email Assistant Demo** | **Implementation Plan** |
+| Map current processes | See the primary entry point | Receive your tailored roadmap |
+| [Schedule Now](mailto:matty@prjctcode.ai?subject=WBA%20Discovery%20Workshop) | [Request Demo](mailto:matty@prjctcode.ai?subject=WBA%20Email%20Assistant%20Demo) | [Get Started](mailto:matty@prjctcode.ai?subject=WBA%20Implementation%20Plan) |
 
-## Contact
+> **Pro Tip:** Begin with the Email Assistant Hub for fastest ROI and minimal disruption
 
-| Contact | Details |
-|---|---|
-| **Email** | matty@prjctcode.ai |
-| **Phone** | (817)368-9117 |
+</div>
 
 ---
 
+<div align="center">
+
 **SquizAI** | Transforming Legal Technology | © 2025
+
+📧 matty@prjctcode.ai · 📱 (817)368-9117 · 🌐 www.squizai.com
+
+</div>
