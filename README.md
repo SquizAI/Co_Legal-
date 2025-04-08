@@ -113,8 +113,8 @@ To begin transforming how White Bear Ankele handles bond due diligence:
 To discuss how our AI development firm can revolutionize White Bear Ankele's bond due diligence processes, please contact:
 
 **AI Development Team**  
-Email: team@example.com  
-Phone: (555) 123-4567
+Email: matty@prjctcode.ai 
+Phone: (817)368-9117
 
 ## License
 
