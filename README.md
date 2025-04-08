@@ -136,6 +136,6 @@ colorado_legal_investors/
 
 **SquizAI** | Transforming Legal Technology | © 2025
 
-📧 matty@prjctcode.ai · 📱 (817)368-9117 · 🌐 www.squizai.com
+📧 matty@prjctcode.ai · 📱 (817)368-9117 · 🌐 www.prjctcode.ai
 
 </div>
