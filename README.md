@@ -40,7 +40,7 @@ Our intelligent email processing system serves as the primary entry point for th
 
 > "The Email Assistant Hub will reduce response time by 85% while increasing attorney capacity by 40%"
 
-[Explore Email Assistant Hub →](./docs/optimization_plans/06_email_assistant_hub.md)
+[Explore Email Assistant Hub →](./optimization_plans/06_email_assistant_hub.md)
 
 ## Solution Architecture
 
@@ -94,20 +94,25 @@ gantt
     Portal Development        :c1, after a2, 60d
 ```
 
-[View Full Implementation Plan →](./docs/implementation_guides/implementation_roadmap.md)
+[View Full Implementation Plan →](./implementation_guides/implementation_roadmap.md)
 
 ## Project Documentation
 
 ```
-docs/
-├── optimization_plans/       # Strategic transformation plans
-│   ├── 00_master_plan.md
+colorado_legal_investors/
+├── README.md                     # Project overview
+├── optimization_plans/           # Strategic transformation plans
+│   ├── 00_optimization_master_plan.md
 │   ├── 01_digital_presence_plan.md
 │   ├── ...
 │   └── 06_email_assistant_hub.md
-├── process_maps/             # Visual workflow diagrams
+├── process_maps/                 # Visual workflow diagrams
+│   ├── due_diligence_workflow.md
 │   └── email_assistant_workflow.md
-└── implementation_guides/    # Implementation roadmaps
+├── implementation_guides/        # Implementation roadmaps
+│   ├── implementation_roadmap.md
+│   └── project_entry_point.md
+└── development_plan.md           # Overall development strategy
 ```
 
 ## Next Steps
